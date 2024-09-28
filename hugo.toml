@@ -1,5 +1,5 @@
 title = "Devansh's Blog"
-baseURL = 'https://hba.sid.one/'
+baseURL = 'https://blog.gandhidevansh.com/'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
@@ -13,6 +13,9 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
 # traditional way: theme component resides in directory 'themes' 
 theme = "hugo-blog-awesome"
+
+[params]
+  description = "Tech insights for beginners. Simplifying AI, startups, and innovation."
 
 # modern way: pull in theme component as hugo module
 #[module]
@@ -95,7 +98,7 @@ theme = "hugo-blog-awesome"
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Devansh's Blog"
-  name = "Devansh G"
+  name = "Devansh Gandhi"
   description = "Tech insights for beginners. Simplifying AI, startups, and innovation."
 
 # Allow to override webmanifest options
