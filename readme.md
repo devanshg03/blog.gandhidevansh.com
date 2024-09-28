@@ -25,7 +25,7 @@ To run this blog locally:
 
 ## Deployment
 
-This blog is automatically deployed to [blog.gandhidevansh.com](https://blog.gandhidevansh.com/) using [Netlify](https://www.netlify.com/).
+This blog is automatically deployed to [blog.gandhidevansh.com](https://blog.gandhidevansh.com/) using [Vercel](https://www.vercel.com/).
 
 ## Contributing
 
