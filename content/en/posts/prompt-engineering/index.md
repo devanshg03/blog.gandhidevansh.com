@@ -6,6 +6,8 @@ description: A comprehensive guide to prompt engineering techniques for optimizi
 isStarred: true
 ---
 
+By [Devansh Gandhi](https://x.com/itzdgofficial)
+
 ## Introduction
 
 What are "Prompt Engineers"? At first, you might think that prompt engineering isn’t really "engineering"— perhaps it’s just today’s version of a "Professional Googler." But after working on building Generative AI applications for about two years, I’ve come to realize there’s much more to crafting prompts than using a few tricks or keywords.
