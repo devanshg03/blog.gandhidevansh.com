@@ -4,6 +4,6 @@
       "HUGO_VERSION": "0.123.8"
     }
   },
-  "buildCommand": "hugo --gc --minify --themesDir ./themes",
+  "buildCommand": "hugo --gc --minify --baseURL=\"https://blog.gandhidevansh.com/\"",
   "outputDirectory": "public"
 }
