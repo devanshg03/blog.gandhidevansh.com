@@ -480,4 +480,4 @@ From structuring prompts to managing temperature, few-shot learning, and even av
 
 ## Acknowledgement
 
-A lot of the content of this article is based on [Anthropic's Prompt Engineering Course](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) with the visualizations from [Emmanuel Ogebe](emmanuelogebe.hashnode.dev).
+A lot of the content of this article is based on [Anthropic's Prompt Engineering Course](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial) with the visualizations from [Emmanuel Ogebe](https://emmanuelogebe.hashnode.dev).
