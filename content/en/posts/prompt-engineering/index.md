@@ -3,7 +3,7 @@ title: Prompt Engineering Guide
 date: 2024-09-25
 author: Devansh Gandhi
 description: A comprehensive guide to prompt engineering techniques for optimizing interactions with Large Language Models (LLMs) and enhancing AI-driven applications.
-isStarred: true
+isStarred: false
 ---
 
 By [Devansh Gandhi](https://x.com/itzdgofficial)
